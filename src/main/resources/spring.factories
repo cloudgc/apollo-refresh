@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.fullgoal.fcup.common.autoconfig.apollo.ApolloRefreshAutoConfiguration,\
+  com.fullgoal.fcup.common.autoconfig.apollo.ApolloRefreshListingConfiguration
